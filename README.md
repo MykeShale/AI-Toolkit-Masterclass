@@ -16,20 +16,6 @@
 
 ---
 
-## �� Table of Contents
-
-1. Part 1: Theoretical Understanding
-2. Part 2: Practical Implementation  
-   &nbsp;&nbsp;&nbsp;&nbsp;• Task 1: Scikit-learn - Iris Classifier  
-   &nbsp;&nbsp;&nbsp;&nbsp;• Task 2: TensorFlow - MNIST Digit Classifier  
-   &nbsp;&nbsp;&nbsp;&nbsp;• Task 3: spaCy - NER & Sentiment  
-3. Part 3: Ethics & Optimization  
-4. Bonus Task: Streamlit Deployment  
-5. Group Reflection  
-6. GitHub Repository Link
-
----
-
 ## 🧠 Part 1: Theoretical Understanding
 
 ### Q1: TensorFlow vs PyTorch
