@@ -4,55 +4,7 @@
 
 ---
 
-## Objective & Guidelines
-
-This assignment evaluates your understanding of **AI tools/frameworks** and their real-world applications through a mix of theoretical and practical tasks. You’ll demonstrate proficiency in selecting, implementing, and critically analyzing AI tools to solve problems.
-
-The assignment has three parts:
-- **Theory:** Tests the theoretical understanding of AI Tools
-- **Practical:** Tests the implementation skills of AI tools
-- **Ethics & Optimization:** Tests ethical AI development and AI software optimization skills
-
-**Teamwork:**
-- This is a group assignment (3-5 people) to enhance teamwork and AI engineering collaboration.
-
-### Submission Guidelines
-- **Code:** Well-commented scripts/Jupyter notebooks (submit on GitHub)
-- **Report:** PDF with:
-  - Answers to theoretical questions
-  - Screenshots of model outputs (e.g., accuracy graphs, NER results)
-  - Ethical reflection
-  - (Share PDF as article in Community, Peer Group Review, and include in GitHub Repo)
-- **Presentation:** 3-minute video explaining your approach (all members participate; share on Community platform)
-
-### Grading Rubric
-| Criteria                  | Weight |
-|--------------------------|--------|
-| Theoretical Accuracy     | 30%    |
-| Code Functionality & Quality | 40%    |
-| Ethical Analysis         | 15%    |
-| Creativity & Presentation| 15%    |
-
-### Tools & Resources
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, spaCy
-- **Platforms:** Google Colab (free GPU), Jupyter Notebook
-- **Datasets:** Kaggle, TensorFlow Datasets
-
-**Why This Matters:**
-- Real-World Impact: These tools power industries from healthcare to finance.
-- Skill Validation: Employers seek proficiency in TensorFlow, PyTorch, and Scikit-learn.
-
-**Deadline:** 7 days. Showcase your AI toolkit mastery! 🚀
-
-**Need Help?**
-- Use official documentation: TensorFlow, PyTorch, spaCy
-- Post questions on the LMS Community with #AIToolsAssignment
-- **Pro Tip:** Test code incrementally—small wins lead to big successes! 💡
-
----
-
 ## 👥 Team Members
-
 - **Mike:** [GitHub](https://github.com/MykeShale)
 - **Violet:** [GitHub](https://github.com/violetwanjiru)
 - **Lukhanyo:** [GitHub](https://github.com/Luu-17)
@@ -195,7 +147,10 @@ The assignment has three parts:
 - Use Streamlit or Flask to create a web interface for your MNIST classifier.
 - Submit a screenshot and a live demo link.
 
----
+
+## 🧭 Part 3: Ethics & Optimization
+- [ethics_and_debugging.ipynb](Part%203%20-%20Ethics%20Optimization/ethics_and_debugging.ipynb)
+
 
 # 📸 Screenshots
 - Confusion Matrix from Iris Classifier
@@ -207,12 +162,14 @@ The assignment has three parts:
 ### Ethics & Debugging
 ![Ethics & Debugging](Screenshots/Ethics-&-Debugging.png)
 
----
 
-# 🧠 Group Reflection
+## 🎥 Group Presentation Video
+- *Add link to your group video here (YouTube, Google Drive, or Community platform).* 
+
+
+## 🧠 Group Reflection
 
 Each member describes what they learned (1-2 sentences each):
-
 - **Mike:** “I learned how to train and evaluate deep learning models using TensorFlow.”
 - **Violet:** “This project helped me understand how NER works and how spaCy simplifies NLP.”
 - **Lukhanyo:** “I learned how to debug model issues and analyze fairness in AI systems.”
@@ -220,6 +177,8 @@ Each member describes what they learned (1-2 sentences each):
 
 ---
 
+
 # 📂 GitHub Repository
 
 🔗 Link: [https://github.com/MykeShale/AI-Toolkit-Masterclass]
+
